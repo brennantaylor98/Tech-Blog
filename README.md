@@ -1,4 +1,4 @@
-# E-Commerce Applcation
+# Tech Blog
 
 ## Description
 This Tech blob allows users create/read/and update blogs. You can see peers blog posts, make your own, delete any posts that may no longer be relevent, and update existing posts to keep you connected and updated on the latest happenings in the tech world. You can sign in if you have an account, or create a brand new account. Your information will keep you logged in even if you happen to leave the page. Lastly if you are logged out you are still able to see posts that have been created.
