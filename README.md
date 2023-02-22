@@ -13,7 +13,7 @@ This Tech blog allows users create/read/and update blogs. You can see peers blog
 7.  [Questions](#questions)
 
 ## Installation
-There is no need to install this application as it is deployed at https://sleepy-eyrie-46281.herokuapp.com/
+There is no need to install this application as it is deployed at https://dashboard.heroku.com/apps/sleepy-eyrie-46281
 
 ## Usage
 To use this application, simply navigate to https://sleepy-eyrie-46281.herokuapp.com/. You are then prompted to sign in or sign up. After completion you will be navigated to your personal homepage. From this homepage the ➕ at the bottom will allow you to create a new blog. Once created you can go back to your profile and update/delete the post using the specifed update/delete buttons. You may also read others posts from the homepage, and if you are done with the website, you may also logout.
